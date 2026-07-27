@@ -1,4 +1,4 @@
-# SQL Subqueries & CTEs
+# Subqueries & CTEs
 
 ## What I Built
 Wrote complex analytical queries using subqueries in WHERE, SELECT, and FROM clauses. Refactored them into readable CTEs and learned window functions for running totals.
