@@ -6,7 +6,7 @@ Wrote complex analytical queries using subqueries in WHERE, SELECT, and FROM cla
 ## What I Learned Today
 - Subqueries in WHERE (filtering with dynamic values)
 - Subqueries in SELECT (adding calculated columns)
-- Subqueries in FROM (querying query results)
+- Subqueries in FROM (querying query result)
 - CTEs (Common Table Expressions) with WITH clause
 - Multiple CTEs in one query
 - WHERE vs HAVING
